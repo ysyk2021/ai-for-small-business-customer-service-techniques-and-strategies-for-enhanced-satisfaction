@@ -1,5 +1,4 @@
-Overview of AI applications for personalized customer service
-================================================================================================================================
+
 
 In this chapter, we will explore how small businesses can use AI to provide more personalized customer service. We will discuss various AI applications that businesses can use to enhance their customer service, from chatbots to personal stylists.
 

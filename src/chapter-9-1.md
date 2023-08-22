@@ -1,5 +1,4 @@
-Ethical considerations for AI implementation in small business customer service
-========================================================================================================================================================
+
 
 As small businesses increasingly adopt AI technologies to improve their customer service, it is important to consider the ethical implications of these technologies. In this chapter, we will discuss some of the ethical considerations for implementing AI in small business customer service.
 

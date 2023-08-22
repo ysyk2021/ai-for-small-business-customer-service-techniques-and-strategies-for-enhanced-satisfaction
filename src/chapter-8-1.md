@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Small Business Customer Service
-=====================================================================================================================================
+
 
 This chapter discusses the importance of measuring the impact of AI on customer service performance in small businesses. We will explore methods for assessing the effectiveness of AI-driven customer service systems and identify key metrics to track.
 

@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Small Business Customer Service
-===============================================================
+
 
 Small businesses can benefit greatly from leveraging AI in their customer service operations. In this chapter, we will discuss the various types of AI used for small business customer service, the benefits of implementing AI, and define what AI is.
 

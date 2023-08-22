@@ -1,5 +1,4 @@
-Legal and regulatory considerations for AI implementation in small business customer service
-=====================================================================================================================================================================
+
 
 As small businesses increasingly rely on AI-powered technologies for customer service, it is important to consider the ethical and legal implications of their implementation. This chapter will discuss the regulatory considerations for small businesses using AI in customer service and provide guidance on ethical AI governance.
 
