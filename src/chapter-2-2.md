@@ -1,5 +1,4 @@
 
-
 Small businesses can benefit greatly from leveraging AI in their customer service operations. In this chapter, we will discuss the various types of AI commonly used for small business customer service.
 
 Chatbots

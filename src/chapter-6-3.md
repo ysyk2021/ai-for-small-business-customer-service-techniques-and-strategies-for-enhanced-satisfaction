@@ -1,5 +1,4 @@
 
-
 Small businesses can benefit greatly from using AI-powered technologies in customer service. In this chapter, we will discuss some case studies of successful AI implementations in customer interaction.
 
 Case Study 1: Hugging Face

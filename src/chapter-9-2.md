@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI-powered technologies in their customer service operations, it becomes important to consider the ethical and governance implications of AI usage. This chapter will cover the importance of developing governance frameworks to ensure responsible AI use within small businesses.
 
 Understanding AI Ethics

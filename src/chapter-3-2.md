@@ -1,5 +1,4 @@
 
-
 To successfully implement AI tools and technologies in customer service, small businesses need to ensure that they have access to high-quality data that can be used to train machine learning algorithms. In this chapter, we will discuss the importance of data availability and quality, and how to evaluate your small business's data readiness for AI implementation in customer service.
 
 Importance of Data Availability and Quality

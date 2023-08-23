@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly turn to AI-powered technologies to enhance their customer service, it is important to consider the ethical implications of these technologies and develop governance frameworks that ensure responsible AI use. In this chapter, we will discuss ethical considerations, governance frameworks, and legal and regulatory considerations for implementing AI in small business customer service.
 
 Ethical Considerations for AI Implementation in Small Business Customer Service

@@ -1,5 +1,4 @@
 
-
 AI-powered technologies can revolutionize the way small businesses interact with their customers. In this chapter, we will discuss the different AI applications that are available for customer interaction and how they can benefit small businesses.
 
 Chatbots

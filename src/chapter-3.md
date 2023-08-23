@@ -1,5 +1,4 @@
 
-
 Implementing AI tools and technologies in customer service can bring many benefits to small businesses. However, it's important to carefully prepare and plan to ensure successful implementation. In this chapter, we will discuss three key steps to prepare your small business for AI implementation in customer service.
 
 Assessing Your Customer Service Needs and Goals

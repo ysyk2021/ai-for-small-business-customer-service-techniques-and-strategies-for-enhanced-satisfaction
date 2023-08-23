@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the importance of measuring the impact of AI on customer service performance. We will explore various metrics that small businesses can use to evaluate the effectiveness of their AI implementation for customer service and how they can continuously improve their AI approach.
 
 Metrics for Measuring AI Impact on Customer Service Performance

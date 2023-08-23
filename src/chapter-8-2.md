@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how small businesses can measure the impact of AI on their customer service performance. We will explore key performance indicators (KPIs) that businesses can use to measure AI's impact, identify areas for improvement, and refine their customer service strategy.
 
 Key performance indicators (KPIs) for measuring AI impact in customer service

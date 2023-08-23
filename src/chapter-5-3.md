@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can use AI to collect and analyze data to enhance their customer service. We will discuss the different methods of data collection and analysis that businesses can use and how AI algorithms can be useful for pattern recognition.
 
 Data Collection

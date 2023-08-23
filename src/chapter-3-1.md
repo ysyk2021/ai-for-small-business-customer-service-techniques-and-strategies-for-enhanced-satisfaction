@@ -1,5 +1,4 @@
 
-
 Before implementing AI tools and technologies in customer service, it's important to first assess your business' unique needs and goals. In this chapter, we will discuss how small businesses can evaluate their current customer service operations to identify areas where AI may be most effective.
 
 Step 1: Identify Customer Pain Points
