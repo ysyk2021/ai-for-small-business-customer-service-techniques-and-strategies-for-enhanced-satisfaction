@@ -8,3 +8,7 @@ In this book, we will explore how small businesses can effectively implement AI 
 Whether you are just getting started with AI or looking to enhance your existing AI capabilities, this book will provide valuable insights and strategies to help you achieve greater success in your customer service operations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
